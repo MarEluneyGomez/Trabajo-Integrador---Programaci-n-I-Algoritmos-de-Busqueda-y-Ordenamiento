@@ -1,4 +1,4 @@
-# Trabajo-Integrador - Programacion I - Algoritmos de Busqueda y Ordenamiento
+# Trabajo Integrador - Programacion I - Algoritmos de Busqueda y Ordenamiento
 ### Integrantes
 - Martin Eluney Gómez Piñeiro
 - Pedro Nicolás Hidalgo
