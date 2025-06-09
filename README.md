@@ -6,7 +6,7 @@
 ### Comision
 Comision 3
 
-## Algoritmos de ordenamiento y Busqueda
+## Algoritmos de Busqueda y Ordenamiento
 
 ### Objetivos:
 En este trabajo integrador, exploramos e implementamos diversos algoritmos fundamentales en el ámbito de la computación: los algoritmos de ordenamiento y los algoritmos de búsqueda. El objetivo principal es comprender su funcionamiento interno, analizar su eficiencia y aplicar estos conocimientos en la resolución de problemas prácticos.
